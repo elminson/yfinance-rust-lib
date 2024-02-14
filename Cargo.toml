@@ -1,0 +1,15 @@
+[package]
+name = "yfinance"
+version = "0.1.0"
+edition = "2021"
+authors = ["Elminson De Oleo Baez <edeoleo@gmail.com"]
+description = "A Rust library to get and maninpulate Yahoo Finance V8 chart data , Im planing to do some more work with this"
+license = "MIT"
+repository = "https://github.com/elminson/yfinance"
+homepage = "https://github.com/elminson/yfinance"
+documentation = "https://github.com/elminson/yfinance/wiki"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
